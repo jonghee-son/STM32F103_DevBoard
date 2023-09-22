@@ -3886,7 +3886,7 @@
     (property "Value" "USB4800-03-A" (at 54.61 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SamacSys_Parts:USB480003A_BIGPAD" (at 66.04 130.48 0)
+    (property "Footprint" "SamacSys_Parts:USB480003A" (at 66.04 130.48 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://gct.co/connector/usb4800" (at 66.04 230.48 0)
