@@ -24,10 +24,13 @@ R4,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,133.695,-126.31,180.0,top
 R5,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,142.24,-125.476,-90.0,top
 R6,330,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,150.622,-122.174,-90.0,top
 R7,20,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,146.812,-127.254,90.0,top
+R8,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,128.905,-134.5165,90.0,top
 R9,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,156.21,-78.395,-90.0,top
 R10,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,151.13,-78.395,-90.0,top
 R11,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,153.67,-78.395,-90.0,top
 R12,330,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,149.098,-122.174,-90.0,top
+R13,20,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,143.764,-127.254,90.0,top
+R14,20,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,154.813,-133.858,0.0,top
 S1,B3U-1000P,Switch_Tactile_SMD_B3U-1000P,134.62,-134.62,-90.0,top
 U1,STM32F103RBTx,LQFP-64_10x10mm_P0.5mm,145.455,-113.67,0.0,top
 Y1,8MHz,Crystal_HC49-4H_Vertical,146.1,-89.48,180.0,top
