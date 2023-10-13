@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2023-09-22T09:56:47+09:00"
+    "CreationDate": "2023-10-13T19:31:36+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "STM32F103_dev_board",
       "GUID": "53544d33-3246-4313-9033-5f6465765f62",
-      "Revision": "1.0"
+      "Revision": "1.0.1"
     },
     "Size": {
       "X": 39.47,
@@ -31,8 +31,8 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
