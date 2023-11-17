@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
-%TF.CreationDate,2023-10-15T12:26:55+09:00*%
-%TF.ProjectId,STM32F103_dev_board,53544d33-3246-4313-9033-5f6465765f62,1.1.2*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-11-17T22:02:34+09:00*%
+%TF.ProjectId,STM32F103_dev_board,53544d33-3246-4313-9033-5f6465765f62,1.1.3*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7) date 2023-10-15 12:26:55*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-11-17 22:02:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -53,7 +53,7 @@ G04 Aperture macros list end*
 %ADD31C,1.500000*%
 G04 APERTURE END LIST*
 D10*
-%TO.C,IC1*%
+%TO.C,PS1*%
 X152405000Y-127341000D03*
 X153355000Y-127341000D03*
 X154305000Y-127341000D03*
