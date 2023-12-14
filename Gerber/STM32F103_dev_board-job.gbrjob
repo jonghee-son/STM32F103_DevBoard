@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-14T12:04:48+09:00"
+    "CreationDate": "2023-12-14T15:31:53+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "STM32F103_dev_board",
       "GUID": "53544d33-3246-4313-9033-5f6465765f62",
-      "Revision": "1.1.4"
+      "Revision": "1.2.1"
     },
     "Size": {
       "X": 39.47,

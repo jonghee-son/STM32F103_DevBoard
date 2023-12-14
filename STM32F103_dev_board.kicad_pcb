@@ -8,7 +8,7 @@
   (title_block
     (title "STM32F103RBT6 Dev Board")
     (date "2023-12-14")
-    (rev "1.2.0")
+    (rev "1.2.1")
   )
 
   (layers
@@ -2978,7 +2978,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 6ef2c260-b498-4416-8e81-35fcaaea2bcb))
   (gr_line (start 127.73 57.73) (end 163.1 57.73)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 820a4a91-28d3-404d-9dd4-3ca901cd9e5f))
-  (gr_text "https://paperecord.com" (at 154.94 59.69) (layer "B.SilkS") (tstamp a99f6519-fd46-4207-87a6-9079008773a1)
+  (gr_text "https://jhson.dev" (at 151.765 59.69) (layer "B.SilkS") (tstamp a99f6519-fd46-4207-87a6-9079008773a1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "PB15" (at 155.575 114.3) (layer "F.SilkS") (tstamp 084ffd34-1888-40cf-bd79-2f02829b3ceb)

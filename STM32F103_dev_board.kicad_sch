@@ -7,7 +7,7 @@
   (title_block
     (title "STM32F103RBT6 Dev Board")
     (date "2023-12-14")
-    (rev "1.2.0")
+    (rev "1.2.1")
   )
 
   (lib_symbols
